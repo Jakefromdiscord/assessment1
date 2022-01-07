@@ -38,3 +38,20 @@ console.log(numbers)
 const bigOrSmallArray = [1, 99, 42, 69, 102, -10, 159, 352]
 
 // CODE HERE
+// for(let i = 0; i < nums.length; i++){
+//     if(nums[i] % 2 === 0){
+//       evensArr.push(nums[i])
+//     }
+//   }
+//   console.log(nums)
+//   console.log(`Evens Array`, evensArr)
+const answers = []
+
+for(let i = 0; i < bigOrSmallArray.length; i++){
+    if(bigOrSmallArray[i] > 100){
+        answers.push('Big')
+    } else if(bigOrSmallArray[i] <= 100){
+        answers.push('small')
+    }
+}
+console.log(answers)
