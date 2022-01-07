@@ -73,3 +73,4 @@ let gitCommitDefinition = 'Git commit saves the newsnapshot and allows for you t
 */
 
 //CODE HERE
+let gitPushDefinition = "Git push allows for you to 'push' your repository to sites like github that upload your repository to the cloud for a secondary backup. Sends local repos to remotes."
