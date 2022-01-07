@@ -42,7 +42,7 @@ let gitCloneDefinition = 'Git clone create a copy or a clone or your git reposit
 */
 
 //CODE HERE
-
+let gitStatusDefinition = 'Git status shows you the working directory. It allows you to see staged changes and files that are not being tracked. Shows whats been happening with git add and git commit commands'
 //////////////////PROBLEM 6////////////////////
 /*
     Create a variable called 'gitAddDefinition'.  
