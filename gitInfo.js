@@ -18,7 +18,7 @@ let gitDefinition = 'Git is used as a way to maintain software progress by creat
 */
 
 //CODE HERE
-
+let gitHubDefinition = "Github is a website in which you can load your gits to as a second way of backing them up to keep track of your progress."
 //////////////////PROBLEM 3////////////////////
 /*
     Create a variable called 'gitInitDefinition'.  
