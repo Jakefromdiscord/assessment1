@@ -26,7 +26,7 @@ let gitHubDefinition = "Github is a website in which you can load your gits to a
 */
 
 //CODE HERE
-
+let gitInitDefinition = 'Git init initializes your git repository allowing for you to upload your gits. Creates a git repository.'
 //////////////////PROBLEM 4////////////////////
 /*
     Create a variable called 'gitCloneDefinition'.  
