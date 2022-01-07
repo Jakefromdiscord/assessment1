@@ -53,7 +53,7 @@ let gitStatusDefinition = 'Git status shows you the working directory. It allows
 */
 
 //CODE HERE
-
+let gitAddDefinition = 'Git add, adds a new snapshot of your current status on a project.'
 //////////////////PROBLEM 7////////////////////
 /*
     Create a variable called 'gitCommitDefinition'.  
