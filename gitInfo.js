@@ -64,7 +64,7 @@ let gitAddDefinition = 'Git add, adds a new snapshot of your current status on a
 */
 
 //CODE HERE
-
+let gitCommitDefinition = 'Git commit saves the newsnapshot and allows for you to add a message to the new saved point.'
 
 //////////////////PROBLEM 8////////////////////
 /*
