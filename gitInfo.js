@@ -34,7 +34,7 @@ let gitInitDefinition = 'Git init initializes your git repository allowing for y
 */
 
 //CODE HERE
-
+let gitCloneDefinition = 'Git clone create a copy or a clone or your git repository. This allows you to create a clone and add the cloned repository into a new folder.'
 //////////////////PROBLEM 5////////////////////
 /*
     Create a variable called 'gitStatusDefinition'.  
